@@ -11,6 +11,7 @@
         
         <div class="container container-m">
   <div class="row">
+    
     <div class="col-md-6  img-hidden">
         
       <img src="{{ secure_asset('img/top2.jpg') }}" alt=TechAcademy KITCHEN" width="500"> 
