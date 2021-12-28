@@ -23,9 +23,8 @@ class PrefpostsController extends Controller
             'prefall'=>$prefall,
         ]);
   */
-  dd($prefall);
         return view('welcome2', [
-            'prefall'=>$prefall,
+            
         ]);
         
     }
