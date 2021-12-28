@@ -18,15 +18,11 @@ class PrefpostsController extends Controller
     {
         $prefall = Prefinfo::all();
 
-/*
         return view('welcome', [
             'prefall'=>$prefall,
         ]);
-  */
-        return view('welcome2', [
-            
-        ]);
-        
+ 
+
     }
     
     
