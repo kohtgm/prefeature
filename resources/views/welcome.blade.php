@@ -10,6 +10,8 @@
         <img src="{{ secure_asset('img/top1.jpg') }}" alt="PREFEATUREトップ画像1" width="1000" style="display: block; margin: auto;">
         <h6 class="text-center">渋峠の雲海 （© Koichi_Hayakawa <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">クリエイティブ・コモンズ・ライセンス（表示4.0 国際）</a>）を改変して作成</h6>
         
+        <img src="{{ secure_asset('img/top5.jpg') }}" alt="PREFEATUREトップ画像5" width="1000" style="display: block; margin: auto;">
+          
         <div class="container container-m">
   <div class="row">
     
