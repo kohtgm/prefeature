@@ -1,7 +1,7 @@
 <header class="mb-4">
     <nav class="navbar navbar-expand-sm navbar-dark bg-info" style="background: linear-gradient(180deg, #20bdff, #5433ff);">
         {{-- トップページへのリンク --}}
-        <a class="navbar-brand" href="/"><div class="test"><img src="{{ secure_asset('img/logo.png') }}" alt=TechAcademy KITCHEN" class="d-inline-block align-bottom"> みんなで作ろう都道府県の魅力</div></a>
+        <a class="navbar-brand" href="/"><div class="test"><img src="{{ secure_asset('img/logo.png') }}" alt=TechAcademy KITCHEN" class="d-inline-block align-bottom"> 　みんなで作ろう都道府県の魅力</div></a>
 {{--
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#nav-bar">
             <span class="navbar-toggler-icon"></span>

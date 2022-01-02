@@ -381,7 +381,18 @@ requestAnimationFrame(tick);
 
         
 {{--        <h1 class="text-center">{!! nl2br(e($pref->name)) !!}</h1> --}}
-    <br>
+    <br><br><br>
+    
+    <div style="font-size: 20px;">
+        <table class="table table-striped table-bordered">
+            <tr>
+                <th class="text-center">投稿一覧</th>
+            </tr>
+        </table>
+    </div>
+    
+    
+    
          <hr class="style-six" />
         
     
@@ -396,7 +407,10 @@ requestAnimationFrame(tick);
 } ?>
     
         @if (count($prefposts) == 0)
-        まだ投稿がありません。</p>
+        <div class="text-center">
+        まだ投稿がありません。
+        </div>
+        <hr class="style-six" />
         @endif
         
         @if (count($prefposts) > 0)

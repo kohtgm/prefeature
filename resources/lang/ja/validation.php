@@ -82,7 +82,7 @@ return [
         'numeric' => ':attribute は :max 以下のみ有効です',
         'file'    => ':attribute は :max KB以下のファイルのみ有効です',
         /* 'string'  => ':attribute は :max 文字以下のみ有効です', */
-        'string'  => '入力する文字数は:max文字以下でお願いします。',
+        'string'  => '投稿する文字数は:max文字以下でお願いします。',
         'array'   => ':attribute は :max 個以下のみ有効です',
     ],
     'mimes'                => ':attribute は :values タイプのみ有効です',

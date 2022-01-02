@@ -22,7 +22,7 @@
         {!! link_to_route('pref.show', '投稿せずに'.$pref->name.'の魅力を見る', [$pref->id], ['class' => 'nav-link']) !!}
     </div>
 {!! Form::close() !!}
-<br><br>
+<br><br><br>
 
         @include('commons.preflist')
 @endsection
