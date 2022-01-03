@@ -17,8 +17,8 @@
     
     <div class="col-md-6  img-hidden">
         
-      <img src="{{ secure_asset('img/top2.jpg') }}" alt=PREFEATUREトップ画像2" width="500"> 
-       <h6 class="text-center">渋峠の雲海 © Koichi_Hayakawa</h6>
+      <img src="{{ secure_asset('img/top6.jpg') }}" alt=PREFEATUREトップ画像2" width="500"> 
+       <h6 class="text-center">新倉山浅間公園（忠霊塔）の桜 © Koichi_Hayakawa</h6>
         <h6 class="text-center"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">クリエイティブ・コモンズ・ライセンス（表示4.0 国際）</a></h6>
         
     </div>
@@ -43,14 +43,15 @@
     
     <div class="col-md-6  img-hidden">
         
-      <img src="{{ secure_asset('img/top2.jpg') }}" alt=PREFEATUREトップ画像2" width="500"> 
-       <h6 class="text-center">渋峠の雲海 © Koichi_Hayakawa</h6>
+      <img src="{{ secure_asset('img/top7.jpg') }}" alt=PREFEATUREトップ画像2" width="500"> 
+       <h6 class="text-center">白川郷（天守閣展望台） © SHori</h6>
         <h6 class="text-center"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">クリエイティブ・コモンズ・ライセンス（表示4.0 国際）</a></h6>
         
     </div>
     
     
     <div class="col-md-5">
+        <br>
     <h5>PREFEATUREは、各都道府県の魅力をランキング形式にはいたしません。都道府県ごとに、皆さんが感じている魅力を自由に投稿して閲覧することができます。投稿内容は、定番のものから、細かいところをついたものまで、あなたが感じていることでOKです。地元の良さを伝えたい！ 旅行に行って素晴らしかった！ 行ったことはないけど自分の"推し"を応援したい！ というあなた、ぜひ投稿してみてください。PREFEATUREが、都道府県の魅力を伝えることにお役に立てれば幸いです。</h5>
     </div>
     
